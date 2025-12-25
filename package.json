@@ -39,7 +39,7 @@
     "clarify": "^1.0.5",
     "commander": "*",
     "foundation-sites": "^6.4.1",
-    "grunt": "^0.4.5",
+    "grunt": "^1.6.1",
     "grunt-compile-handlebars": "^2.0.0",
     "grunt-contrib-clean": "^0.7.0",
     "grunt-contrib-concat": "^0.5.1",
