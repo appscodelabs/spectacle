@@ -54,7 +54,7 @@
     "grunt-sass": "*",
     "handlebars": "^4.0.5",
     "highlight.js": "^9.1.0",
-    "js-yaml": "^3.8.2",
+    "js-yaml": "^4.2.0",
     "json-refs": "^2.1.6",
     "json-stable-stringify": "^1.0.1",
     "lodash": "^4.2.1",
